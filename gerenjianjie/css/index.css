@@ -1,0 +1,106 @@
+/*
+* @Author: 王晨
+* @Date:   2017-09-12 18:26:53
+* @Last Modified by:   王晨
+* @Last Modified time: 2017-09-16 02:10:45
+*/
+.head{
+	background-image: url('../img/bg.jpg');
+	background-size: 100%;
+	position: relative;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	margin: auto;
+	background-size: cover;
+	height: 100vh;
+}
+.zhezhao{
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0,0.7);
+	font-size: 60px;
+	font-weight: bolder;
+	color: #fff;
+	text-align: center;
+	overflow: hidden;
+}
+.zhezhao a{
+	font-size: 80px;
+	font-weight: 700;
+	position: absolute;
+    top: 218px;
+    left: 27.8%;
+	color: #fff;
+}
+.jianjie{
+	padding-top: 90px;
+	width: 1170px;
+	padding-bottom: 90px;
+}
+.zhaopian{
+	padding-right: 15px;
+    padding-left: 15px;
+}
+.about-text{
+	margin-bottom: 20px;
+}
+.about-text h3{
+	margin-bottom: 25px;
+	padding: 0 15px;
+}
+.about-text p{
+	font-size: 17px;
+    color: #888;
+    line-height: 27px;
+}
+.tongji{
+	padding: 0 15px;
+	margin-bottom: 30px;
+}
+.tongji h4{
+	line-height: 27px;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+.tongjitiao{
+	display: block;
+    height: 10px;
+    background: #d6d6d6;
+    position: relative;
+    width: 100%;
+    border-radius: 5px;
+}
+.tongjiiao-1{
+	width: 80%;
+	position: absolute;
+    height: 90%;
+    left: 0;
+    top: 0;
+    background: #222;
+    border-radius: 5px;
+}
+.tongjitiao span{
+	position: absolute;
+	right: 10px;
+    top: -18px;
+    font-size: 13px;
+}
+.fuwu{
+	padding: 90px 0;
+	background: #f6f6f6;
+}
+.fuwu h4{
+    font-weight: 600;
+    text-align: center;
+}
+.fuwu p{
+	font-size: 17px;
+    color: #888;
+    line-height: 27px;
+    text-align: center;
+}
+.fuwu a{
+	color: #000;
+}
